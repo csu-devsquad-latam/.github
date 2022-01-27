@@ -1,0 +1,2 @@
+# .github
+default GitHub templates

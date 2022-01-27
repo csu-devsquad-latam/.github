@@ -1,0 +1,13 @@
+{
+    "name": "node azure webapp workflow",
+    "description": "node azure webapp ci cd workflow template with terraform",
+    "iconName": "nodejs-icon",
+    "categories": [
+        "NodeJS"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
